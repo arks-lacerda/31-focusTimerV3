@@ -31,7 +31,7 @@ In this project use concepts like:
 - Dependency injection.
 - Mode Dark/Light
 
-* [Access the finished project, online](https://arks-lacerda.github.io/02-focusTimePlus/)
+* [Access the finished project, online](https://arks-lacerda.github.io/31-focusTimerV3/)
 
 ## 🔖 Layout
 
